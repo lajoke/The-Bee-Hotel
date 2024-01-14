@@ -1,3 +1,5 @@
+Travail réalisé dans le cadre du cycle ingénieur Ei2i4 à Polytech Sorbonne par : M'RAIHI Yannis - REVILLOT Romain - DUMONT Alexandre et LERCHUNDI Thomas
+
 FR - Le projet "The Bee Hotel" vise à révolutionner l'apiculture en intégrant la technologie moderne dans les pratiques traditionnelles, offrant ainsi une approche innovante pour la surveillance et la gestion des ruches, dans le but ultime de préserver et de soutenir nos précieuses populations d'abeilles.
 Dans ce projet, vous pourrez trouver les codes Arduino, ainsi que le paramétrage de The Things Network et de Beep.
 
